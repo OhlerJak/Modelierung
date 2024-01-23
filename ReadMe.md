@@ -2,6 +2,7 @@
 ## 1. "Adventure Database" data model analysis
 > Use the “Adventure database“ data model from Moodle and create a schema for a
 MongoDB. Justify your design.
+
 ![adventuredb](index.png)
 
 ### Solution
