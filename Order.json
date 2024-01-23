@@ -1,0 +1,31 @@
+{
+    "ID":12343242,
+    "date":"20-01-2024",
+    "staff":{
+        "name":"James Bond",
+        "ID":7
+    },
+    "customer":{
+        "name":"Joe Doe",
+        "ID":47,
+        "Address":"Fischergasse 4 4600 Wels",
+        "numAdventuresBooked":2
+    },
+    "adventures":[{
+        "name":"Mountenbiking",
+        "date":"20-06-2024",
+        "time":"08:30",
+        "location":"Schladming",
+        "numOfParticipants":10,
+        "price":100,
+        "discount":0
+    },{
+        "name":"Trail Hiking",
+        "date":"20-06-2024",
+        "time":"04:30",
+        "location":"Schladming",
+        "numOfParticipants":3,
+        "price":10,
+        "discount":20
+    }]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"Mountenbiking",
+    "Adventuretype":{
+        "description":"Beginner Trailtraining in Schladming",
+        "minNumberParticipants":2,
+        "duration":"2days",
+        "reqirements":"basic cycling skills",
+        "basicPrice":99.99,
+        "maxNumberParticipants":10
+    },
+    "Statistics":{
+        "avgNumberParticipants":5,
+        "numCompleted":10,
+        "avgPrice":110.94
+    }
+}
